@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# test-bit-react
+Test using a component from bit in react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
