@@ -19,7 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
-      <div style={{ margin: "16px", maxWidth: "798px" }}>
+      <div
+        style={{ margin: "16px auto", maxWidth: "798px", textAlign: "left" }}
+      >
         <TransactionLine
           date={new Date()}
           title='Título da transação'
